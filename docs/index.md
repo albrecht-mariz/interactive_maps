@@ -1,12 +1,8 @@
-# Entrance page
+# User Behavior in iNaturalist's City Nature Challenges - Geospatial Analysis 
 
 
-```
-[Link to test map](https://albrecht-mariz.github.io/interactive_maps/map_london_osm_observations_clusters_dualmap.html)
-[Link to test map OSM](https://albrecht-mariz.github.io/interactive_maps/map_london_osm_dualmap.html)
-```
+### My maps
 
-## My maps
+#### London 
 
- - [Link to test map](https://albrecht-mariz.github.io/interactive_maps/map_london_osm_observations_clusters_dualmap.html)
- - [Link to test map OSM](https://albrecht-mariz.github.io/interactive_maps/map_london_osm_dualmap.html)
+  - [London before (2019) and during (2020 pandemic](https://albrecht-mariz.github.io/interactive_maps/map_london_osm_dualmap.html)
