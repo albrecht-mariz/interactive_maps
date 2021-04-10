@@ -4,9 +4,8 @@
 
 #### London 
 
-###### London before (2019) and during (2020) the pandemic
-
-[![london_dualmap](london_dual.PNG)](https://albrecht-mariz.github.io/interactive_maps/map_london_osm_dualmap.html)
+###### London before (2019) and during (2020) the pandemic 
+####### click on the image below to access the interactive map
 
 [![london_dualmap](london_dual.PNG)](https://albrecht-mariz.github.io/interactive_maps/map_london_osm_dualmap.html){:target="_blank"}
 
